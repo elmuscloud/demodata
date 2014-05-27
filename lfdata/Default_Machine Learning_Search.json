@@ -6,11 +6,11 @@
   "serviceName":"Wired Magazine"},
   
   {"TOTALCOUNT":"3","com.sap.ais.tax.core.uri":"content6CB2917708BDFED102C5403CA956AE325299AFDD",
-  "label":"How Quantum Computers and Machine Learning Will Revolutionize Big Data",
-  "description":"When subatomic particles smash together at the Large Hadron Collider in Switzerland, they create showers of new particles whose signatures are recorded by four detectors. The LHC captures 5 trillion bits of data ��� more information than all of the world���s libraries combined ��� every second. After the judicious application of filtering algorithms, more than 99 percent of those data are discarded, but the four experiments still produce a whopping 25 petabytes (25��1015 bytes) of data per year that must be stored and analyzed. That is a scale far beyond the computing resources of any single facility, so the LHC scientists rely on a vast computing grid of 160 data centers around the world, a distributed network that is capable of transferring as much as 10 gigabytes per second at peak performance.",
-  "link":"http://www.wired.com/2013/10/computers-big-data/",
+  "label":"Machine Learning for Information Extraction in Informal Domains",
+  "description":"We consider the problem of learning to perform information extraction in domains where linguistic processing is problematic, such as Usenet posts, email, and finger plan files. In place of syntactic and semantic information, other sources of information can be used, such as term frequency, typography, formatting, and mark-up.",
+  "link":"http://link.springer.com/article/10.1023/A:1007601113994",
   "com.sap.ais.tax.core.type":"content",
-  "serviceName":"Wired Magazine"},
+  "serviceName":"Springer via SAP Labs Library"},
   
   {"TOTALCOUNT":"3","com.sap.ais.tax.core.uri":"content6CB2917708BDFED102C5403CA959AE325299CCDD",
   "label":"Machine Learning 1 Supervised Learning",
