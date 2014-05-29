@@ -1,1 +1,86 @@
-[{"label":"Jeff Green on eXtensible Predictive Framework","description":"Jeff Green presented on a preliminary version of an extensible python framework designed to make it easy to experiment with using and chaining machine learning techniques. This framework \"wraps\" HANA PAL, Python, and R (using rpy2), and will eventually","link":"https://community.wdf.sap.corp/docs/DOC-213602","serviceName":"community.wdf.sap.corp"},{"label":"Free CS Classes from Stanford","description":"Stanford recently started offering 3 of their most popular Computer Science courses on the web for free. These courses are very useful for anyone who deals with data or web 2.0 apps (in particular the machine learning and the DB courses). &nbsp;  People","link":"https://community.wdf.sap.corp/thread/38999","serviceName":"community.wdf.sap.corp"},{"label":"Have you come across Digital Trowel?","description":"Does anyone have any experience or knowledge of Digital Trowel other than their own claims? &nbsp;  http://www.digitaltrowel.com/ &nbsp;  I am particularly interested in their  Supervised Machine Learning (CRF - Conditional Random Fields)  approach to","link":"https://community.wdf.sap.corp/thread/31024","serviceName":"community.wdf.sap.corp"},{"label":"Greg Holmberg on Knowledge Graphs","description":"Greg proposed a series of steps for generating a&nbsp; knowledge graph from text automatically (no ontologies, dictionaries, etc. needed).&nbsp; Several of these steps involve machine learning.&nbsp; There are several problems applying these algorithms","link":"https://community.wdf.sap.corp/docs/DOC-216657","serviceName":"community.wdf.sap.corp"},{"label":"Supplier InfoNet, Machine Learning FAQ.pdf","description":"Supplier InfoNet, Machine Learning FAQ.pdf","link":"https://community.wdf.sap.corp/docs/DOC-85194","serviceName":"community.wdf.sap.corp"},{"label":"Meeting Recording and Presentation - Thomas Ricatte - Machine Learning and Graphs - Laplacians and Spectral Methods","description":"Great presentation on some cool search and predictive concepts based on graphs. Thanks Thomas!!!! &nbsp;  https://sap.na.pgiconnect.com/p48479956/","link":"https://community.wdf.sap.corp/docs/DOC-189488","serviceName":"community.wdf.sap.corp"},{"label":"Daniel Dahmeier on Deep Learning - July 24, 2013","description":"Hi All,  The recording of Daniel s excellent presentation on dep learning can be found below. &nbsp;  Abstract: Deep Learning is a new area of Machine Learning research which has revived the field of neural networks. Deep Learning is about learning","link":"https://community.wdf.sap.corp/docs/DOC-218789","serviceName":"community.wdf.sap.corp"},{"label":"Meeting Recording and Link: August 29, 2012","description":"Curtis Huang presented on an HR machine learning solution for customer retention.   &nbsp;  &nbsp; Recording: https://sap.na.pgiconnect.com/p87828149/ &nbsp; URL for POC: http://10.48.171.226:8080/sfsfweb/home.html","link":"https://community.wdf.sap.corp/docs/DOC-159156","serviceName":"community.wdf.sap.corp"},{"label":"Stanford Machine Learning Projects - Autumn 2012 - provided by Shel and Cirrus","description":"http://cs229.stanford.edu/projects2012.html &nbsp; CS 229 Machine Learning Final Projects, Autumn 2012   A Facebook Profile-Based TV Recommender System. Jeff David, Samir Bajaj, Cherif Jazra. [pdf]  A Flexible System for Hand Gesture Recognition. Matt","link":"https://community.wdf.sap.corp/docs/DOC-187191","serviceName":"community.wdf.sap.corp"},{"label":"Machine Learning Primer","description":"BigData_MachineLearning_IdeationTank.pdf","link":"https://community.wdf.sap.corp/docs/DOC-182318","serviceName":"community.wdf.sap.corp"},{"label":"HANA Data Scientist","description":"The overall objective of HANA Data Scientist is to speed-up and improve productivity of complex machine learning and data mining tasks on HANA. It provides an easy-to-use graphical interface to design and test complex analysis pipelines.","link":"https://mediashare.wdf.sap.corp/public/id/0_comn5vbn","serviceName":"mediashare.wdf.sap.corp"},{"label":"ML in Hana?","description":"How would one do machine learning on/in Hana?&nbsp; What libraries exist that could help, and what would need to be built?&nbsp; Which programming language would be best to implment ML?&nbsp; R? L? &nbsp;  For example, I d like to try some k-means","link":"https://community.wdf.sap.corp/thread/94759","serviceName":"community.wdf.sap.corp"},{"label":"Human Interaction Design Course Online","description":"Following the style of the hugely successful Machine learning course released by Standford University a couple years ago, which anyone in the world could freely join, Scott Klemmer has opened a Human Interaction Design course on the same basis.","link":"https://community.wdf.sap.corp/thread/100178","serviceName":"community.wdf.sap.corp"},{"label":"SCN: Movie Recommender on SAP HANA One","description":"How to build a consumer-facing smart app using machine learning and Text Analysis in SAP HANA. Think NetFlix + Rotten Tomato + Twitter to help recommend what movies \"you\" will most likely be interested in watching. &nbsp;  New Released Movie Recommender","link":"https://community.wdf.sap.corp/thread/142099","serviceName":"community.wdf.sap.corp"},{"label":"Applied Research Big Data Projects Sharing Agenda","description":"Big Data Projects Sharing Agenda&nbsp;&nbsp;  Date/Time (CET)Session Title Presenter(s)&nbsp;&nbsp;&nbsp;   &nbsp; Session Abstract   &nbsp;  Sep 12, 2012  17:00-18:00 Employee Retention POC Curtis Huang, AR Big Data  Palo Alto  Machine Learning POC","link":"https://community.wdf.sap.corp/docs/DOC-160486","serviceName":"community.wdf.sap.corp"},{"label":"Data Scientist – Rapid Machine Learning prototyping on HANA","description":"wiki: https://wiki.wdf.sap.corp/wiki/display/potsdam/HANA+Data+Scientist+-+Machine+learning+Modeler+for+Studio  The overall objective of HANA Data Scientist is to speed-up and improve productivity for complex machine learning and data mining tasks on HANA. The current PoC prototype is developed on t","link":"https://mediashare.wdf.sap.corp/public/id/0_voj4t67c","serviceName":"mediashare.wdf.sap.corp"},{"label":"Machine Learning of Extraction Rules (Alpha Luk, Inxight)","link":"https://documents.wdf.sap.corp/share/page/site/textanalysisdevelopment/document-details?nodeRef=workspace://SpacesStore/c48bbde7-7818-4ad2-820e-8df8161a139c","serviceName":"documents.wdf.sap.corp"}]
+[
+
+{
+TOTALCOUNT: "3",
+label: "Introduction to Artificial Intelligence",
+description: "Show Details Hide Details The objective of this class is to teach you modern AI. You will learn about the basic techniques and tricks of the trade. We also aspire to excite you about the field of AI. What Will I Learn? This class introduces students to the basics of Artificial Intelligence, which includes machine learning, probabilistic reasoning, robotics, and natural language processing. What Should I Know? Some of the topics in Introduction to Artificial Intelligence will build on probability theory and linear algebra. You should have understanding of probability theory comparable to that at our ST101: Introduction to Statistics class Syllabus Overview of AI Statistics, Uncertainty, and Bayes networks Machine Learning Logic and Planning Markov Decision Processes and Reinforcement Learning Hidden Markov Models and Filters Adversarial and Advanced Planning Image Processing and Computer Vision Robotics and robot motion planning Natural Language Processing and Information Retrieval FAQ ",
+link: "https://redhoop.com/udacity-introduction-to-artificial-intelligence-3963-2.html",
+serviceName: "udacity.com"
+},
+{
+TOTALCOUNT: "3",
+label: "Natural Language Processing",
+description: "Show Details Hide Details This course covers a broad range of topics in natural language processing, including word and sentence tokenization, text classification and sentiment analysis, spelling correction, information extraction, parsing, meaning extraction, and question answering, We will also introduce the underlying theory from probability, statistics, and machine learning that are crucial for the field, and cover fundamental algorithms like n-gram language modeling, naive bayes and maxent classifiers, sequence models like Hidden Markov Models, probabilistic dependency and constituent parsing, and vector-space models of meaning. We are offering this course on Natural Language Processing free and online to students worldwide, continuing Stanford s exciting forays into large scale online instruction. Students have access to screencast lecture videos, are given quiz questions, assignments and exams, receive regular feedback on progress, and can participate in a discussion forum. Thos",
+link: "https://redhoop.com/coursera-natural-language-processing-3723-2.html",
+serviceName: "coursera.org"
+},
+{
+TOTALCOUNT: "2",
+label: "Greg Holmberg on Knowledge Graphs",
+description: "Greg proposed a series of steps for generating a&nbsp; knowledge graph from text automatically (no ontologies, dictionaries, etc. needed).&nbsp; Several of these steps involve machine learning.&nbsp; There are several problems applying these algorithms",
+link: "https://community.wdf.sap.corp/docs/DOC-216657",
+serviceName: "community.wdf.sap.corp"
+},
+{
+TOTALCOUNT: "3",
+label: "Neural Networks for Machine Learning",
+description: "Show Details Hide Details Neural networks use learning algorithms that are inspired by our understanding of how the brain learns, but they are evaluated by how well they work for practical applications such as speech recognition, object recognition, image retrieval and the ability to recommend products that a user will like. As computers become more powerful, Neural Networks are gradually taking over from simpler Machine Learning methods. They are already at the heart of a new generation of speech recognition devices and they are beginning to outperform earlier systems for recognizing objects in images. The course will explain the new learning procedures that are responsible for these advances, including effective new proceduresr for learning multiple layers of non-linear features, and give you the skills and understanding required to apply these procedures in many other domains. This YouTube video gives examples of the kind of material that will be in the course, but the course will p",
+link: "https://redhoop.com/coursera-neural-networks-for-machine-learning-3900-2.html",
+serviceName: "coursera.org"
+},
+{
+TOTALCOUNT: "2",
+label: "Daniel Dahmeier on Deep Learning - July 24, 2013",
+description: "Hi All, The recording of Daniel s excellent presentation on dep learning can be found below. &nbsp; Abstract: Deep Learning is a new area of Machine Learning research which has revived the field of neural networks. Deep Learning is about learning",
+link: "https://community.wdf.sap.corp/docs/DOC-218789",
+serviceName: "community.wdf.sap.corp"
+},
+{
+TOTALCOUNT: "2",
+label: "Computational Neuroscience",
+description: "This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function. We will explore the computational principles governing various aspects of vision, sensory-motor control, learning, and memory. Specific topics that will be covered include representation of information by spiking neurons, processing of information in neural networks, and algorithms for adaptation and learning. We will make use of Matlab demonstrations and exercises to gain a deeper understanding of concepts and methods introduced in the course. The course is primarily aimed at third- or fourth-year undergraduates and beginning graduate students, as well as professionals and distance learners interested in learning how the brain processes information.",
+link: "https://redhoop.com/coursera-computational-neuroscience-3839-2.html",
+serviceName: "coursera.org"
+},
+{
+TOTALCOUNT: "3",
+label: "Working with Big Data",
+description: "Show Details Hide Details Working with Big Data: Infrastructure, Algorithms, and Visualizations LiveLessons presents a high level overview of big data and how to use key tools to solve your Data Organization challenges. This introduction to the three areas of big data includes: • Infrastructure - how to store and process big data • Algorithms - how to integrate algorithms into your big data stack and an introduction to classification • Visualizations - an introduction to creating visualizations in JavaScript using D3.js The goal was not to be exhaustive, but rather, to provide a higher level view of how all the pieces of a big data architecture work together by learning Big Data Management. Paul Dix is the author of “Service Oriented Design with Ruby and Rails.” He is a frequent speaker at conferences and user groups including Web 2.0, RubyConf, RailsConf, The Gotham Ruby Conference, and Scotland on Rails. Paul is the founder and organizer of the NYC Machine Learning Meetup, which has ",
+link: "https://redhoop.com/udemy-working-with-big-data-4203-2.html",
+serviceName: "udemy.com"
+},
+
+{
+TOTALCOUNT: "2",
+label: "Linear and Integer Programming",
+description: "Show Details Hide Details Linear Programming (LP) is arguably one of the most important optimization problems in applied mathematics and engineering. The Simplex algorithm to solve linear programs is widely regarded as one among the "top ten" algorithms of the 20th century. Linear Programs arise in almost all fields of engineering including operations research, statistics, machine learning, control system design, scheduling, formal verification and computer vision. It forms the basis for numerous approaches to solving hard combinatorial optimization problems through randomization and approximation. The primary goals of this course will be to: 1. Understand the basic theory behind LP, algorithms to solve LPs, and the basics of (mixed) integer programs. 2. Understand important and emerging applications of LP to economic problems (optimal resource allocation, scheduling problems), machine learning (SVM), control design (finite horizon optimal control, dynamic programming), and formal veri",
+link: "https://redhoop.com/coursera-linear-and-integer-programming-3714-2.html",
+serviceName: "coursera.org"
+},
+
+{
+TOTALCOUNT: "2",
+label: "Applied Research Big Data Projects Sharing Agenda",
+description: "Big Data Projects Sharing Agenda&nbsp;&nbsp; Date/Time (CET)Session Title Presenter(s)&nbsp;&nbsp;&nbsp; &nbsp; Session Abstract &nbsp; Sep 12, 2012 17:00-18:00 Employee Retention POC Curtis Huang, AR Big Data Palo Alto Machine Learning POC",
+link: "https://community.wdf.sap.corp/docs/DOC-160486",
+serviceName: "community.wdf.sap.corp"
+},
+{
+TOTALCOUNT: "2",
+label: "Natural Language Processing",
+description: "Show Details Hide Details Natural language processing (NLP) deals with the application of computational models to text or speech data. Application areas within NLP include automatic (machine) translation between languages; dialogue systems, which allow a human to interact with a machine using natural language; and information extraction, where the goal is to transform unstructured text into structured (database) representations that can be searched and browsed in flexible ways. NLP technologies are having a dramatic impact on the way people interact with computers, on the way people interact with each other through the use of language, and on the way people access the vast amount of linguistic data now in electronic form. From a scientific viewpoint, NLP involves fundamental questions of how to structure formal models (for example statistical models) of natural language phenomena, and of how to design algorithms that implement these models. In this course you will study mathematical an",
+link: "https://redhoop.com/coursera-natural-language-processing-3630-2.html",
+serviceName: "coursera.org"
+},
+
+
+{
+TOTALCOUNT: "2",
+label: "Natural Language Processing in the Cloud",
+description: "{{Title}} {{Project}} Natural Language Processing , often referred as Computational Linguistics , is the filed of analyzing and understanding the language that human use naturally through machine learning program. This project will focus on how it is possible to build the NLP system in the cloud and",
+link: "https://navigator.wdf.sap.corp/index.php/Natural_Language_Processing_in_the_Cloud",
+serviceName: "navigator.wdf.sap.corp"
+},
+
+
+]
