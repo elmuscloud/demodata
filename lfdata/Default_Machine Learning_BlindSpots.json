@@ -19,7 +19,7 @@
 "label": "Greg Holmberg on Knowledge Graphs",
 "description": "Greg proposed a series of steps for generating a&nbsp; knowledge graph from text automatically (no ontologies, dictionaries, etc. needed).&nbsp; Several of these steps involve machine learning.&nbsp; There are several problems applying these algorithms",
 "link": "https://community.wdf.sap.corp/docs/DOC-216657",
-"serviceName": "community.wdf.sap.corp"
+"serviceName": "SAP Community"
 },
 {
 "TOTALCOUNT": "3",
@@ -33,7 +33,7 @@
 "label": "Daniel Dahmeier on Deep Learning - July 24, 2013",
 "description": "Hi All, The recording of Daniel s excellent presentation on dep learning can be found below. &nbsp; Abstract: Deep Learning is a new area of Machine Learning research which has revived the field of neural networks. Deep Learning is about learning",
 "link": "https://community.wdf.sap.corp/docs/DOC-218789",
-"serviceName": "community.wdf.sap.corp"
+"serviceName": "SAP Community"
 },
 {
 "TOTALCOUNT": "2",
@@ -63,7 +63,7 @@
 "label": "Applied Research Big Data Projects Sharing Agenda",
 "description": "Big Data Projects Sharing Agenda&nbsp;&nbsp; Date/Time (CET)Session Title Presenter(s)&nbsp;&nbsp;&nbsp; &nbsp; Session Abstract &nbsp; Sep 12, 2012 17:00-18:00 Employee Retention POC Curtis Huang, AR Big Data Palo Alto Machine Learning POC",
 "link": "https://community.wdf.sap.corp/docs/DOC-160486",
-"serviceName": "community.wdf.sap.corp"
+"serviceName": "SAP Community"
 },
 {
 "TOTALCOUNT": "2",
@@ -79,7 +79,7 @@
 "label": "Natural Language Processing in the Cloud",
 "description": "{{Title}} {{Project}} Natural Language Processing , often referred as Computational Linguistics , is the filed of analyzing and understanding the language that human use naturally through machine learning program. This project will focus on how it is possible to build the NLP system in the cloud and",
 "link": "https://navigator.wdf.sap.corp/index.php/Natural_Language_Processing_in_the_Cloud",
-"serviceName": "navigator.wdf.sap.corp"
+"serviceName": "SAP Navigator"
 }
 
 
